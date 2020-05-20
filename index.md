@@ -6,8 +6,8 @@
 [Jump to my Portfolio Projects](#Portfolio)
 <br/>
 <br/>
-There's also a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing)
-Fixed
+There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing)
+
 ***
 
 Discover one of my active projects (clickable pics):
@@ -45,66 +45,61 @@ Continued maintenance of this project is also my personal fight against early-on
 
 It is not enough to read and study; you must create and solve. [Jump to what I'm Aiming to solve](#aims)  
 
-***
-Featured skill of the month:
-
-***
-
-I can prototype interactive designs in FramerX
-
-![](./gif/frameX.gif)
-
-I'm still in the process of setting up 5+ gigs but, if you're interested, you can check out what other techie services I offer on Fiverr!
-
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<!-- https://www.fiverr.com/nicktheo
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'><div class='fiverr-seller-content' id='fiverr-seller-widget-content-8948bf3b-0653-4a10-b8d8-b244c4ac0609' itemprop='contentURL' style='display: none;'></div><div id='fiverr-widget-seller-data' style='display: none;'><div itemprop='name' >nicktheo</div>
-<div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-<div itemprop='jobtitle'>Seller</div><div itemprop='description'>My key strengths lie in identifying Strategic focus, Product management, scoping out Technology solutions before any excessive cost. See my portfolio. <br/> I've delivered global IT projects for large companies - NHS, Interserve, Virgin Media.
-My business mentor was Sir Terry Matthews and Wesley Clover I sat on the board of a technology startup before leaving to pursue my own business interests in 2016.
-I enjoy consulting - it truly energises me to share a lot of value with fellow or aspiring entrepreneurs in a condensed amount of time, but of course ongoing engagements may also prove valuable.</div></div></div><script id='fiverr-seller-widget-script-8948bf3b-0653-4a10-b8d8-b244c4ac0609' src='https://widgets.fiverr.com/api/v1/seller/nicktheo?widget_id=8948bf3b-0653-4a10-b8d8-b244c4ac0609' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script> -->
 
 ***
 
 <a id="aims"> </a>
 <br/>
+
 ## Aims
-I'm lucky. I got to grow up in the right environment, with the right family, and get the right education.
-I spent my entire waking life orientatied towards one principle, in the same way Chris Hadfield chose to eat is vegetables from age 6 because he believed it would make him more likely to become an astronaut(!) -- My principle was more of a 'feeling' and the feeling was to 'search' for the roots of what drives humanity forward - and then contribute to it.  
+<!-- Age 2 I pick out the right numbers for my grandma. We won the lottery and I got to grow up in the right environment and get the right education.
+Like an obsessive-compulsive I spent my entire waking life orientated towards one ideal, in the same way Chris Hadfield chose to eat is vegetables from age 6 because he believed it would make him more likely to become an astronaut(!) -- for me that ideal was more of a 'feeling' and that feeling was to 'search' for the roots of what drives humanity forward - and then contribute to it.   -->
 
-What I (and feasibly You, my future collaborators) have decided to work on:
+What I have decided to work on:
 
-- The Future of Energy and Pensions (Solar Club)
-- The Future of Education (Tinkerbricks VR/AR)
-- The Future of Pensions and Transport (Auto-Shares)
-- The Future of Food and Waste Management (BSFL)
+- The Future of Food and Waste Management (BSFL = Green)
+- The Future of Education (VR/AR = Blue)
+- The Future of Transportation and Income-generation (Auto-Shares = Red)
+- The Future of Commerce and Community (Yellow)
 
-![](assets/img/LarvaeLabs.png) The link / QR Code to download the App will soon go here. Until then, you can join the email list [Go there](#mailing)
+![](assets/img/LarvaeLabs.png) 
+_Your local Auto-Shares / TinkerBricks House - an Artist's impression_
+<!-- The link / QR Code to download the App will go here. -->
 
-## Progress on Aims
 
-I'll consider any job opportunities/contracts/side projects/activities relating to these Aims; they are holistic themes part of a bigger jigsaw puzzle -- to create one 'urban farm unit' per neighbourhood of 20,000 people. 
+### Progress on Aims, How I am I doing?
 
+As a visual person I like to plan ahead and keep track of my progress in the form of Comic-like pictures. I call it "Visual Accountability".
+It beats reading a long and complicated business plan (although full write-ups are available for the investors and finance people).
+
+<!-- class="btn btn-info" -->
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
-<!-- <button type="button" class="btn btn-info" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
- -->
  <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
 
-Working to develop Customer Relationship Management software (which I have done), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Training industry, for example, are all necessary and relevant to enjoying the journey of achieving these Aims. Don't be shy, hire me on 
+
+###Freelance software contractor For Hire 
+
+I consider any freelance job opportunities relating (even very loosely) to these Aims; they are four themes that relate of my jigsaw puzzle and personal journey -- my dream to create one TinkerBricks House per neighbourhood of 20,000 people.
+
+Working to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Immersive Learning and Training industry, these are all necessary and relevant to enjoying the journey that comes with achieving my Aims. Don't be shy, hire me. 
+
+<!-- Insert a Contact form or Fiverr Button-->
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+<!-- https://www.fiverr.com/nicktheo -->
+
 
 ***
 
 <a id="mailing"> </a>
 <br/>
 
-## Mailing list - stay in touch
+### Mailing list
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/nickth" target="_blank">The Future of XYZ</a></p></form>
 
-If you would like to reach out/keep in touch/collaborate with me on this 4-part quest, consider signing up with your best email address here. The choice of how and when to be serendipitous is entirely yours.
+If you would like to stay informed / hire me for a project / join me on this 4-part (_slightly cult-like_) quest, or just say hello - then consider signing up with your best email address and then, if you like, follow up with me directly.
+
 
 <a id="Portfolio"> </a>
 <br/>
@@ -117,8 +112,8 @@ More links/gifs coming soon with concise explanations; this list is continuously
 ![](./gif/caption_search.gif)
 *My design of a Search Engine for YouTube captions*
 
-If, having skimmed through my Portfolio Projects below, you have any feedback (or even potential job offers),
-the best (and fastest) place to probably reach me is Twitter. DMs are open :)
+If, having skimmed through my Portfolio Projects below, you have any feedback (or even job offers),
+a good place to reach me is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
@@ -210,20 +205,33 @@ All in all these 2 projects took up 4-5 years of my life, but can honestly now s
 ***
 ## Niki's Wiki
 ***
-Essentially my personal knowledge wiki currently exists on [Dropbox Paper](http://bit.ly/39WwyEj) but I plan to use it interchangeably with this site. (There is a button for presentation mode at the top if you like big text). 
+"If you know I topic well enough you could have written the Wikipedia article"
+Nikipedia is a web of articles that reflects the state of my knowledge about a topic.
 
-Here is a placeholder list of concepts I've learnt and am in the process of exploring / exploiting: 
+
+
+Essentially it started on [Dropbox Paper](http://bit.ly/39WwyEj) (There is a button for presentation mode at the top if you like big text),
+but I use Paper interchangably with this site and a couple of private github repos.
+
+
+
+
+For some topics I just decided to record an [Unlisted Video](./wiki/unlisted_videos.md) 🏁
+Certain topics will be fully written up (when it is worthwhile), and perhaps supplemented with _Interactive Content_
+
+Here is a list of concepts I am in the process of exploring / exploiting: 
 
 * [Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
 * Fermi Surfaces 🏁
-* [Unlisted Videos](./wiki/unlisted_videos.md) 🏁
+* Formal Logic 🏁
+* 
 
 
 [![](assets/img/jigsaw.png)](./autoshares/visual_accountability.html "Visual objectives") 
 
 ***
 
-To start your own personal "Nikipedia-like" / Knowledge-cloud project:
+<!-- To start your own personal "Nikipedia-like" project:
 <br/>
 * 1) Click the very first button at the top of this page, 
 * 2) fork this Repo on Github, rename it the same as your Github username (in the same way I did with mine), this will give you a hosted website
@@ -236,7 +244,7 @@ Same instructions go for Collaborating on my wiki entries / Correcting anything 
 Here are a list of folders within this website repo that I am willing to accept Pull Requests about:
 <br/>
 * ./wiki
-* ./auto-shares
+* ./auto-shares -->
 
 
 <!-- * ./tinkerbricks (tbc)
@@ -246,13 +254,14 @@ Here are a list of folders within this website repo that I am willing to accept 
 * ./Reunification-project (tbc)
 * ./BSFL (tbc) -->
 
-
+<!-- 
 <br/>
 Before I accept a Pull Request (in the spirit of this entire project) I will need time to demonstate the claim that your changes are now _actually_ part of my own personal knowledge repetoire -- to ensure that this website doesn't simply become a pale pale version of actual Wikipedia.
 <br/>
 If _everything_ ends up staying in this one repo (apparently that is how GOOGLE genuinely manage their entire code base), then for some projects/folders Containerisation will be essential ^^
 <br/>
 Similarly, for any larger media items, these "files" (like audio etc.) will merely be http links that point to their actual location on a CDN. 
+ -->
 
 ***
 
@@ -273,12 +282,19 @@ Finally, I'll leave you with perspective-changing long video to watch if you hav
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
+***
+Featured skill of the month:
 
-&copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until the expiry date moves my work into the public domain)
+***
+
+I can prototype interactive designs in FramerX
+
+![](./gif/frameX.gif)
+
+***
+
+&copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until copyright expiry moves my work into the public domain)
 
 ***
 
