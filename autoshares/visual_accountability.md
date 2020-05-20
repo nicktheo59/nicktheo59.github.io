@@ -2,35 +2,34 @@
 layout: default
 ---
 
-Still working out the exact format for this but it will include:
+<!-- Still working out the exact format for this but it will include:
 * The 'Comics' as I envisioned them at the time
 * An updated version to reflect ones that were completed (tick) or removed (no longer necessary)
 * Some reference or indication of the amount of time everything took (to get better at predicting)
 
-But my gut tells me that the volume/significance of what we achieve (in a post-information age) is more limited by the ability to visualise what we truly want, more so than seeking time-based 'Agile' optimisations (although, of course, there are productivity ceilings that might need to be overcome e.g. by hiring more sales people).
+But my gut tells me that the volume/significance of what we achieve (in a post-information age) is more limited by the ability to visualise what we truly want, more so than seeking time-based 'Agile' optimisations (although, of course, there are productivity ceilings that might need to be overcome e.g. by hiring more sales people). -->
 
-![](../assets/img/p2w-min.jpg)
+My strategic planning cheat sheet adapted from the book "Playing To Win" [is here](../assets/img/p2w-min.jpg)
 
 
-## Month 
+## 2020
 
-### Jan-Feb 2020: Pre-
+### Mid-June Plan / Mid-July Deadline
 
-![](../assets/img/21jan.png)
 
-### Jan-Feb 2020: Post-
+### Mid-May Plan / Mid-June Deadline
 
-<blockquote class="trello-board-compact">
-  <a href="https://trello.com/b/reNLd9TF">Trello Board</a>
-</blockquote>
-<script src="https://p.trellocdn.com/embed.min.js"></script>
 
-***
+### Mid-April Plan / Mid-May Deadline
 
-## Quarter
 
-### May Aug Nov
+### Mid-March Plan / Mid-April Deadline
 
+
+### Mid-Feb Plan / Mid-March Deadline 
+
+
+### [Mid-Jan Plan / Mid-Feb Deadline:](../assets/img/21jan.png)
 
 *** 
 
@@ -50,4 +49,6 @@ But my gut tells me that the volume/significance of what we achieve (in a post-i
 
 ## Streets Ahead
 
-Life in Weeks Glitch applet to condense information space
+There are no shortage of ideas, but the question is whether it can all be achieved within the time.
+
+<!-- Life in Weeks Glitch applet to condense information space -->
