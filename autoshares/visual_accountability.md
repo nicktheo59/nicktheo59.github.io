@@ -14,22 +14,16 @@ My strategic planning cheat sheet adapted from the book "Playing To Win" [is her
 
 ## 2020
 
-### Mid-June Plan / Mid-July Deadline
+### Q4 Sep-Nov
 
 
-### Mid-May Plan / Mid-June Deadline
+### Q3 June-Aug
 
 
-### Mid-April Plan / Mid-May Deadline
+### Q2 March-May 
 
 
-### Mid-March Plan / Mid-April Deadline
-
-
-### Mid-Feb Plan / Mid-March Deadline 
-
-
-### [Mid-Jan Plan / Mid-Feb Deadline:](../assets/img/21jan.png)
+### Q1 Dec-Feb [view](../assets/img/21jan.png)
 
 *** 
 
