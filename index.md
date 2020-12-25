@@ -5,7 +5,7 @@
 <br/>
 Testing...
 <br/>
-Hello you've stumbled onto Nick L. Theodorou's website (that's me). [Jump to my Portfolio Projects](#Portfolio)
+You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my Portfolio Projects](#Portfolio) -->
 <br/>
 
 ## FAQ : Why am I here? 
@@ -13,29 +13,31 @@ Hello you've stumbled onto Nick L. Theodorou's website (that's me). [Jump to my 
 It's a good question. Let me try to give a firm answer:
 
 “Take off your hat,” the King said to the Hatter.
-“It isn’t mine,” said the Hatter.
-“Stolen!” the King exclaimed, turning to the jury.
-“I keep them to sell; I’ve none of my own. I’m a hatter.”
+<br/>
+“It isn’t mine,” said the Hatter.<br/>
+“Stolen!” the King exclaimed, turning to the jury.<br/>
+“I keep them to sell; I’ve none of my own. I’m a hatter.”<br/>
 
 
-In the years since that was published Job Titles and 'Identities' have become somewhat harder to define, since we're operating in an information-centric society. So...
+In the years since that was published^, Job Titles and 'Identities' (like hatter) have become somewhat harder to define, since we're operating in an information-centric society. Therefore...
 
-For the next 10 minutes (or however long you choose to visit), my aim is to leave you with a:
+For the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
 
-* 1.) better sense of what I do, through examples - [Portfolio Projects](#Portfolio)
-* 2.) new idea / perspective / historical appreciation (some Informational 'Suprise') 
-* 3.) mild feeling of passive amusement; (One day i'll be able to create 'Matt Groeing-quality' video clips just by typing story lines, but until then don't expect anything milk-snorting)
-* 4.) desire to become a valued newsletter subscriber [Go there](#mailing)
+* 1.) a better sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
+* 2.) maybe new idea / perspective / historical appreciation (some Informational 'Suprise' that is hopefully worthwhile) 
+* 3.) mild feelings of passive amusement; (One day i'll be able to create 'Matt Groeing-quality' video clips just by typing story lines, but until then don't expect anything milk-snorting)
 
+~~4.) an overwhelming desire to become a valued newsletter subscriber~~ [Go there](#mailing)
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-^ Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
 
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
+
+^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
 
 <!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
 
@@ -104,11 +106,9 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
  -->
 
  <br/>
- <br/>
- <br/>
 
 
-### Software contractor For Hire 
+## Software contractor For Hire 
 
 I do consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people. 
 
