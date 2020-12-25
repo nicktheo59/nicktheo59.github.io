@@ -29,15 +29,11 @@ For the next 10 minutes (or however long you choose to visit), my aim is to leav
 
 ~~4.) an overwhelming desire to become a valued newsletter subscriber~~ [Go there](#mailing)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
+^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
 
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
-^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
 
 <!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
 
@@ -95,7 +91,7 @@ What I have decided to work on:
 - The Future of Renewable Energy and Income-generation 
 - The Future of Food and Waste Management [Larvae Labs](./Labs.md)
 - The Future of Immersive Education
-- Intermittent / necessary entrepreneur-ing (aka for paying the bills)
+- Intermittent / necessary entrepreneur-ing (aka paying the bills)
 
 ![](assets/img/LarvaeLabs.png) 
 <br/>
@@ -162,6 +158,10 @@ Gifs _from the future_ will be added here with concise explanations; this list w
 ![](./gif/caption_search.gif)
 <br/>
 *My design of a Search Engine for YouTube captions*
+<br/>
+
+<br/>
+<br/>
 <br/>
 
 ***
@@ -244,9 +244,9 @@ Everything above was strictly engineered by me (solely), anything below is from 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
+Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but can honestly now say I now have 'first hand know-how' about of what a professional business person could expect - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
-My Parents and Grandparents trade was Food Retail (specifically takeaway Fish & Chips) so as a teen I was unboundedly curious to demystify the heights of word "Business". This speaks to the point I made about "Hatters" (i.e. "Fish Fryers") and the less tangibly defined role of knowledge workers behind the scenes -- I needed the concreteness of all these experiences to better relate with what makes the modern world tick.
+My Parents and Grandparents were in the Food Retail trade (specifically takeaway Fish & Chips) so as a teen I was unboundedly curious to demystify the heights of word "Business". This speaks to the point I made about "Hatters" (i.e. "Fish Fryers") and the less tangibly obvious role of Knowledge Workers behind the scenes -- I needed the concreteness of all these first-hand experiences in order to better relate to what makes the modern world tick.
 
 <a id="wiki"> </a>
 <br/>
