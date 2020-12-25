@@ -3,21 +3,55 @@
 
 ![](./gif/plasma_simulation.gif)
 <br/>
-[Jump to my Portfolio Projects](#Portfolio)
-<br/>
 Testing...
 <br/>
-There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing)
+Hello you've stumbled onto the Nick L. Theodorou's website (that's me).
+<br/>
+## Firstly, Why am I here? 
+
+It's a good question. Let me try to give a firm answer:
+
+```
+“Take off your hat,” the King said to the Hatter.
+```
+```
+“It isn’t mine,” said the Hatter.
+```
+```
+“Stolen!” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.
+```
+```
+“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”
+```
+Since that was published^ Job Titles and 'Identities' have become somewhat harder to define, since we're operating in an information-centric society. So...
+
+For the next 10 minutes (or however long you choose to visit), my aim is to leave you with a:
+
+* 1.) better sense of what I do, through examples - [Jump to my Portfolio Projects](#Portfolio)
+* 2.) new idea / perspective / historical appreciation (some Informational 'Suprise') 
+* 3.) mild feeling of passive amusement; (One day i'll be able to create 'Matt Groeing-quality' video clips just by typing story lines, but until then don't expect anything milk-snorting)
+* 4.) desire to become a valued newsletter subscriber [Go there](#mailing)
+
+
+
+^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
+
+
+
+
+
+<!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
 
 ***
 
-Discover one of my active projects (clickable pics):
+Discover one of my active projects (clickable):
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
-[![](./assets/img/autoshares.png)](./autoshares/autoshares.html "Auto-Shares Infopage") 
+<!-- [![](./assets/img/autoshares.png)](./autoshares/autoshares.html "Auto-Shares Infopage")  -->
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
+
 
 <!-- Tinkerbricks 
 [Cyprus] Solar Club [Subdomain] -->
@@ -26,7 +60,7 @@ Discover one of my active projects (clickable pics):
 
 
 
-## Firstly, what is this Nikipedia thing anyway?
+<!-- ## What is this 'Nikipedia' thing anyway?
 
 The foundation of communication involves making assumptions about what other people know. I assume you can read English, or have access to a browser-extension that can translate this page for you. My main point is that 'knowledge clouds' exist between us, and in order for us to make  significant scientific progress in the future we will need to communicate more efficiently. The only other options are increasing the lifespan in which to make progress, or increasing the 'information bandwidth' in which to achieve. This 'personal knowledge cloud' is the low-tech solution for my half of the communication problem. Although in essence I started it almost 30 years too late to become a 'real-time' reflection, Nikipedia is an ongoing repository of 'time-series data' that mirrors the path of intellectual things I choose to explore / exploit.
 
@@ -45,7 +79,7 @@ b) to test my own understanding as I develop personal 'reference documentation'.
 Continued maintenance of this project is also my personal fight against early-onset Alzheimer's, and it is likely one day some big data summaries could be extracted from the text files.
 
 It is not enough to read and study; you must create and solve. [Jump to what I'm Aiming to solve](#aims)  
-
+ -->
 
 ***
 
@@ -58,36 +92,46 @@ Like an obsessive-compulsive I spent my entire waking life orientated towards on
 
 What I have decided to work on:
 
-- The Future of Food and Waste Management (BSFL = Green)
-- The Future of Education (VR/AR = Blue)
-- The Future of Transportation and Income-generation (Auto-Shares = Red)
-- The Future of Commerce and Community (Yellow)
+- The Future of Transportation and Income-generation 
+- The Future of Renewable Energy and Income-generation 
+- The Future of Food and Waste Management [Larvae Labs](./Labs.md)
+- The Future of Immersive Education
+- Intermittent / necessary entrepreneur-ing for pragmatic survival
 
 ![](assets/img/LarvaeLabs.png) 
-_Your local Auto-Shares / TinkerBricks House - an Artist's impression_
-<!-- The link / QR Code to download the App will go here. -->
+<br/>
+_Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
 
 
-### Progress on Aims, How I am I doing?
+<!-- The link / QR Code to download the App will go here.
+ -->
+
+ <br/>
+ <br/>
+ <br/>
+
+
+### Software contractor For Hire 
+
+I do consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one 'TinkerBricks House' per neighbourhood of 20,000 people. 
+
+Directing teams to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years employment in an advanced technology development setting, these are all necessary and relevant experiences that come with the journey of achieving my Aims. In short: don't be shy, hire me. 
+
+<!-- Insert a Contact form or Fiverr Button-->
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+<!-- https://www.fiverr.com/nicktheo -->
+
+
+### Progress on Aims
 
 As a visual person I like to plan ahead and keep track of my progress in the form of Comic-like pictures. I call it "Visual Accountability".
-It beats reading a long and complicated business plan (although full write-ups are available for the investors and finance people).
+It beats reading a long, complicated plan (although full write-ups are available for the investors and finance people).
+The best way to use them is as a tool to communicate with your colleagues.
 
 <!-- class="btn btn-info" -->
 
 * [Visual Accountability](./autoshares/visual_accountability.md)
  <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
-
-
-###Freelance software contractor For Hire 
-
-I consider any freelance job opportunities relating (even very loosely) to these Aims; they are four themes that relate of my jigsaw puzzle and personal journey -- my dream to create one TinkerBricks House per neighbourhood of 20,000 people.
-
-Working to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years of employment in the AR hardware or VR Immersive Learning and Training industry, these are all necessary and relevant to enjoying the journey that comes with achieving my Aims. Don't be shy, hire me. 
-
-<!-- Insert a Contact form or Fiverr Button-->
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<!-- https://www.fiverr.com/nicktheo -->
 
 
 ***
@@ -99,7 +143,8 @@ Working to develop Customer Relationship Management software ([which I have done
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/nickth" target="_blank">The Future of XYZ</a></p></form>
 
-If you would like to stay informed / hire me for a project / join me on this 4-part (_slightly cult-like_) quest, or just say hello - then consider signing up with your best email address and then, if you like, follow up with me directly.
+If you want to join the 15 friends and internet onlookers I am yet to sporadically email about my project progress
+then consider signing up with your best email address, it would really be appreciated.
 
 
 <a id="Portfolio"> </a>
@@ -107,40 +152,18 @@ If you would like to stay informed / hire me for a project / join me on this 4-p
 
 ## Portfolio Projects (Semi-Chronological)
 
-More links/gifs coming soon with concise explanations; this list is continuously being added to.
+More links/gifs with concise explanations; this list is continuously being added to.
 
 
 ![](./gif/caption_search.gif)
 *My design of a Search Engine for YouTube captions*
 
-If, having skimmed through my Portfolio Projects below, you have any feedback (or even job offers),
-a good place to reach me is Twitter. DMs are open :)
+a good place to reach me direct is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
  -->
 
-***
-Pre-Graduation:
-
-***
-
-Lua - Wrote scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
-
-Mathematica - Managing Packages and a Notebook to visualise the efficiency of Dye Synthesized Solar Cells under fluorescent and outdoor light sources (Measuring the Shockley-Queisser limit) 
-
-CLI / Unix Commands - Submitting Particle-in-Cell plasma simulation jobs to UCL's Super Computing Cluster (HPC)
-
-MATLAB - Solving Equations of Motion for a Double Pendulum; Creating Time Lapse visualisations of Proton-Driven Plasma Wakefields
-
-Processing - Arduino-controlled Data Visualisation [In future I could run this type of project directly in a web environment]
-
-Meteor.js - Setting up Telescope (a hacker news clone); Login with Twitter / a Conference Attendee App
-
-C++ - Use of Statistics libraries written by CERN to analyse example results data, Glen Cowan was my instructor
-
-LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth) <br/>
-[Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
 
 ***
 Post-Graduation:
@@ -184,9 +207,35 @@ Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YpGqMYtjz8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+***
+Pre-Graduation:
+
 ***
 
-Everything you see above is work strictly engineered by me (solely), anything below is from a team project which I Product Managed / Project Managed:
+Lua - Wrote scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
+
+Mathematica - Managing Packages and a Notebook to visualise the efficiency of Dye Synthesized Solar Cells under fluorescent and outdoor light sources (Measuring the Shockley-Queisser limit) 
+
+CLI / Unix Commands - Submitting Particle-in-Cell plasma simulation jobs to UCL's Super Computing Cluster (HPC)
+
+MATLAB - Solving Equations of Motion for a Double Pendulum; Creating Time Lapse visualisations of Proton-Driven Plasma Wakefields
+
+Processing - Arduino-controlled Data Visualisation [In future I could run this type of project directly in a web environment]
+
+Meteor.js - Setting up Telescope (a hacker news clone); Login with Twitter / a Conference Attendee App
+
+C++ - Use of Statistics libraries written by CERN to analyse example results data, Glen Cowan was my instructor
+
+LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleration (Thanks Donald Knuth) <br/>
+[Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
+
+
+***
+
+### Team Efforts
+
+Everything above was strictly engineered by me (solely), anything below is from a team project which I Product Managed / Project Managed:
 
 <br/>
 
@@ -196,9 +245,9 @@ Everything you see above is work strictly engineered by me (solely), anything be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-My family's trade was Food Retail (specifically Fish & Chip shops) however as a teen I was unboundedly curious to demystify the heights of word "Business".
+Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
-All in all these 2 projects took up 4-5 years of my life, but can honestly now say I've now 'done' much of what a professional business person could expect 'first hand' - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
+My Parents and Grandparents trade was Food Retail (specifically takeaway Fish & Chips) so as a teen I was unboundedly curious to demystify the heights of word "Business". This speaks to the point I made about "Hatters" (i.e. "Fish Fryers") and the less tangibly defined role of knowledge workers behind the scenes -- I needed the concreteness of all these experiences to better relate with what makes the modern world tick.
 
 <a id="wiki"> </a>
 <br/>
@@ -206,25 +255,26 @@ All in all these 2 projects took up 4-5 years of my life, but can honestly now s
 ***
 ## Niki's Wiki
 ***
-"If you know I topic well enough you could have written the Wikipedia article"
-Nikipedia is a web of articles that reflects the state of my knowledge about a topic.
+"If you know a topic well enough you could have written the Wikipedia article"
+Nikipedia is a 'web' of articles that reflects the state of my knowledge about a topic.
+YOURNAME-ipedia would do the same job and side-by-side we could see the topic conflicts, similarities, breadth, or depth.
+
+
+Essentially this is something I started doing on [Dropbox Paper](http://bit.ly/39WwyEj), then I switched to thinking about it in terms of a shareable github repo (starting with a portion of this here website), at some point I thought that an audio / definition format could be interesting ([Listen here](https://anchor.fm/nikipedia-xyz)), however I see Immersive Learning as another emerging medium for me to investigate. Ultimately the focus is for better use of technology to train up the next generation of engineers to a world-class standard more efficiently.
 
 
 
-Essentially it started on [Dropbox Paper](http://bit.ly/39WwyEj) (There is a button for presentation mode at the top if you like big text),
-but I use Paper interchangably with this site and a couple of private github repos.
 
+For some topics I decided to record an [Unlisted Video](./wiki/unlisted_videos.md) 🏁
+Other topics warrant a full write up (when it is worthwhile to do so), and certain topics like the inner workings of magnetism should be supplemented with fabled _Immersive Interactive Experiences_
 
-
-
-For some topics I just decided to record an [Unlisted Video](./wiki/unlisted_videos.md) 🏁
-Certain topics will be fully written up (when it is worthwhile), and perhaps supplemented with _Interactive Content_
-
-Here is a list of concepts I am in the process of exploring / exploiting: 
+Here is a list of concepts I have been exploring or recapping: 
 
 * [Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
 * Fermi Surfaces 🏁
 * Formal Logic 🏁
+* Combinators 
+* Industrial uses for Protein folding solutions
 * 
 
 
