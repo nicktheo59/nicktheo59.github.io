@@ -14,16 +14,12 @@ My strategic planning cheat sheet adapted from the book "Playing To Win" [is her
 
 ## 2020
 
-### Q4 Sep-Nov
-
-
-### Q3 June-Aug
-
-
-### Q2 March-May 
-
+example
 
 ### Q1 Dec-Feb [view](../assets/img/21jan.png)
+
+Visual OKR progression (a communication tool)
+Fosters both competition and collaboration between colleagues.
 
 *** 
 

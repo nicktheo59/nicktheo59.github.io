@@ -5,52 +5,50 @@
 <br/>
 Testing...
 <br/>
-Hello you've stumbled onto the Nick L. Theodorou's website (that's me).
+Hello you've stumbled onto Nick L. Theodorou's website (that's me). [Jump to my Portfolio Projects](#Portfolio)
 <br/>
-## Firstly, Why am I here? 
+
+## FAQ : Why am I here? 
 
 It's a good question. Let me try to give a firm answer:
 
-```
 “Take off your hat,” the King said to the Hatter.
-```
-```
 “It isn’t mine,” said the Hatter.
-```
-```
-“Stolen!” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.
-```
-```
-“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”
-```
-Since that was published^ Job Titles and 'Identities' have become somewhat harder to define, since we're operating in an information-centric society. So...
+“Stolen!” the King exclaimed, turning to the jury.
+“I keep them to sell; I’ve none of my own. I’m a hatter.”
+
+
+In the years since that was published Job Titles and 'Identities' have become somewhat harder to define, since we're operating in an information-centric society. So...
 
 For the next 10 minutes (or however long you choose to visit), my aim is to leave you with a:
 
-* 1.) better sense of what I do, through examples - [Jump to my Portfolio Projects](#Portfolio)
+* 1.) better sense of what I do, through examples - [Portfolio Projects](#Portfolio)
 * 2.) new idea / perspective / historical appreciation (some Informational 'Suprise') 
 * 3.) mild feeling of passive amusement; (One day i'll be able to create 'Matt Groeing-quality' video clips just by typing story lines, but until then don't expect anything milk-snorting)
 * 4.) desire to become a valued newsletter subscriber [Go there](#mailing)
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
+^ Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
 
-
-
-
+[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
 <!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
 
 ***
 
-Discover one of my active projects (clickable):
+<!-- Discover one of my projects (clickable): -->
 
 <!-- (clickable pics):  -->
 <!-- 3 or 12/4 Columns -->
 
 <!-- [![](./assets/img/autoshares.png)](./autoshares/autoshares.html "Auto-Shares Infopage")  -->
-[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
+
+<!-- [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI") -->
 
 
 <!-- Tinkerbricks 
@@ -81,7 +79,6 @@ Continued maintenance of this project is also my personal fight against early-on
 It is not enough to read and study; you must create and solve. [Jump to what I'm Aiming to solve](#aims)  
  -->
 
-***
 
 <a id="aims"> </a>
 <br/>
@@ -96,7 +93,7 @@ What I have decided to work on:
 - The Future of Renewable Energy and Income-generation 
 - The Future of Food and Waste Management [Larvae Labs](./Labs.md)
 - The Future of Immersive Education
-- Intermittent / necessary entrepreneur-ing for pragmatic survival
+- Intermittent / necessary entrepreneur-ing (aka for paying the bills)
 
 ![](assets/img/LarvaeLabs.png) 
 <br/>
@@ -113,9 +110,17 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
 
 ### Software contractor For Hire 
 
-I do consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one 'TinkerBricks House' per neighbourhood of 20,000 people. 
+I do consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people. 
 
-Directing teams to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years employment in an advanced technology development setting, these are all necessary and relevant experiences that come with the journey of achieving my Aims. In short: don't be shy, hire me. 
+Directing teams to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years employment in an advanced technology development setting, are all necessary and relevant experiences that come with the journey of achieving my Aims. In short: don't be shy, hire me. 
+
+
+a good place to reach me directly is Twitter. DMs are open :)
+<a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
+ -->
+
 
 <!-- Insert a Contact form or Fiverr Button-->
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
@@ -126,7 +131,7 @@ Directing teams to develop Customer Relationship Management software ([which I h
 
 As a visual person I like to plan ahead and keep track of my progress in the form of Comic-like pictures. I call it "Visual Accountability".
 It beats reading a long, complicated plan (although full write-ups are available for the investors and finance people).
-The best way to use them is as a tool to communicate with your colleagues.
+The best way to use them is as a 'glanceable' tool to communicate your quarterly OKRs with colleagues.
 
 <!-- class="btn btn-info" -->
 
@@ -152,18 +157,12 @@ then consider signing up with your best email address, it would really be apprec
 
 ## Portfolio Projects (Semi-Chronological)
 
-More links/gifs with concise explanations; this list is continuously being added to.
-
+Gifs _from the future_ will be added here with concise explanations; this list will grow in a timely manner.
 
 ![](./gif/caption_search.gif)
+<br/>
 *My design of a Search Engine for YouTube captions*
-
-a good place to reach me direct is Twitter. DMs are open :)
-<a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
- -->
-
+<br/>
 
 ***
 Post-Graduation:
