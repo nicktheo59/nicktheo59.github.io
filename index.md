@@ -12,25 +12,24 @@ You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my P
 
 It's a good question. Let me try to give a firm answer:
 
-“Take off your hat,” the King said to the Hatter.
+
+“Take off your hat,” said the King to the Hatter.
 <br/>
-“It isn’t mine,” said the Hatter.<br/>
-“Stolen!” the King exclaimed, turning to the jury.<br/>
-“I keep them to sell; I’ve none of my own. I’m a hatter.”<br/>
+“It isn’t mine”<br/>
+“I keep them to sell; I’ve none of my own. I’m a Hatter.”<br/>
 
 
-In the years since that was published^, Job Titles and 'Identities' (like hatter) have become somewhat harder to define, since we're operating in an information-centric society. Therefore...
+In recent years Job Titles and Identities (even the ones that end in "-er") have become somewhat harder to define, since we're operating in an information-centric society.
 
-For the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
+So for the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
 
 * 1.) a better sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
-* 2.) maybe new idea / perspective / historical appreciation (some Informational 'Suprise' that is hopefully worthwhile) 
-* 3.) mild feelings of passive amusement; (One day i'll be able to create 'Matt Groeing-quality' video clips just by typing story lines, but until then don't expect anything milk-snorting)
+* 2.) perhaps a new idea / perspective (some Informational 'Suprise' that is hopefully worthwhile) 
+<!-- * 3.) mild feelings of passive amusement; (One day i'll be able to create video clips just by typing story lines, but until then don't expect anything milk-snorting) -->
+* 3.) an _overwhelming urge_ to become a valued newsletter subscriber - part of something bigger [Sign up here](#mailing)
 
-~~4.) an overwhelming desire to become a valued newsletter subscriber~~ [Go there](#mailing)
-
-
-^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age.
+<!-- 
+^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age. -->
 
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
@@ -103,15 +102,24 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
 
  <br/>
 
+### Now -- Dec 2020
+
+ Right now (in Derek Sivers fashion) I'm working towards a Wind Turbine and portable Solar demonstration with the view of organising what I learn into Instructed "Airbnb Experience" for others to more easily do the same in the new year. I am conducting a technical and supplier review of Air Source Heat Pump installations for the UK market. And I'm also reviewing some interesting PhD and job opportunities that have come up. 
+
+ Recently I reached a Proof of Concept milestone for 'TUTU' which stands for Top Up Track Usage, but have decided to shelve the project for the time being until I can come up the next steps to creatively de-risk the venture. The Renewables aim is also more pressing as the Government's GHG scheme will expire in March.
+
 
 ## Software contractor For Hire 
 
-I do consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people. 
 
+
+<!-- consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people.  -->
+
+<!-- 
 Directing teams to develop Customer Relationship Management software ([which I have done](https://youtu.be/d_M9h4Ndxts)), studying Physics to Masters' level, or gaining 2-3 years employment in an advanced technology development setting, are all necessary and relevant experiences that come with the journey of achieving my Aims. In short: don't be shy, hire me. 
+ -->
 
-
-a good place to reach me directly is Twitter. DMs are open :)
+A good place to reach me directly is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
@@ -125,9 +133,9 @@ a good place to reach me directly is Twitter. DMs are open :)
 
 ### Progress on Aims
 
-As a visual person I like to plan ahead and keep track of my progress in the form of Comic-like pictures. I call it "Visual Accountability".
-It beats reading a long, complicated plan (although full write-ups are available for the investors and finance people).
-The best way to use them is as a 'glanceable' tool to communicate your quarterly OKRs with colleagues.
+As a visual person I like to plan ahead and keep track of progress in the form of Comic-like pictures. I call it "Visual Accountability".
+It beats re-reading a long, complicated plan when I have already thought through the project milestones (although full write-ups are available for the investors and finance people).
+They can serve as a visible cue to keep you focused, but also create reference cues to more easily communicate progress between teammates and stakeholders.
 
 <!-- class="btn btn-info" -->
 
