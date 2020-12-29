@@ -9,7 +9,7 @@ I'm working towards a Wind Turbine and portable Solar demonstration with the vie
 
 Recently I reached a Proof of Concept milestone for 'TUTU' which stands for Top Up Track Usage, but have decided to shelve the project for the time being until I can come up the next steps to creatively de-risk the venture. The Renewables aim is also more pressing as the Government's GHG scheme will expire in March.
 
-
+<br/>
 
 ***
 
