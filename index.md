@@ -26,7 +26,7 @@ So for the next 10 minutes (or however long you choose to visit), my aim is to l
 * 1.) a better sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
 * 2.) perhaps a new idea / perspective (some Informational 'Suprise' that is hopefully worthwhile) 
 <!-- * 3.) mild feelings of passive amusement; (One day i'll be able to create video clips just by typing story lines, but until then don't expect anything milk-snorting) -->
-* 3.) an _overwhelming urge_ to become a valued newsletter subscriber - part of something bigger [Sign up here](#mailing)
+* 3.) the _urge_ to become a valued newsletter subscriber - and part of something bigger [Sign up here](#mailing)
 
 <!-- 
 ^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age. -->
@@ -102,6 +102,9 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
 
  <br/>
 
+
+<a id="now"> </a>
+<br/>
 ### Now -- Dec 2020
 
  Right now (in Derek Sivers fashion) I'm working towards a Wind Turbine and portable Solar demonstration with the view of organising what I learn into Instructed "Airbnb Experience" for others to more easily do the same in the new year. I am conducting a technical and supplier review of Air Source Heat Pump installations for the UK market. And I'm also reviewing some interesting PhD and job opportunities that have come up. 
