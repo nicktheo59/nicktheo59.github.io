@@ -288,7 +288,7 @@ Here is a list of concepts I have been exploring or recapping:
 * 
 
 
-[![](assets/img/jigsaw.png)](./autoshares/visual_accountability.html "Visual objectives") 
+[![](assets/img/jigsaw.png)](./writeups.html "Other writings") 
 
 ***
 
