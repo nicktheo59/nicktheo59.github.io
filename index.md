@@ -282,8 +282,7 @@ Here is a list of concepts I have been exploring or recapping:
 * Formal Logic 🏁
 * Combinators 
 * Industrial uses for Protein folding solutions
-* 
-
+* [Gyroscopes](./wiki/Gyroscopes115.md) 🏁
 
 [![](assets/img/jigsaw.png)](./writeups.html "Other writings") 
 
