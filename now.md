@@ -3,15 +3,11 @@
 
 What I'm up to right now (in Derek Sivers fashion)
 
-### -- Feb 2020
+### -- March 2021
 
-I'm working towards demonstrations of homemade renewable energy generation and storage systems - Wind, Solar, Battery. The plan is to adapt what I make into a half-day workshop for anybody to efficiently build the same thing themselves and start to save bills.
-For interest I've started working through a property valuations university course booklet and a house building instruction manual. -- Thinking ahead about whether to buy or build. 
+Crunch time: I've got to either bankrupt my company or figure out a way to pay a £3000 fine (to do with a miscommunication in "late" filed paperwork). I actually like the challenge of getting out of tough positions because however you do it that momentum usually continues. I found a place to rent for £128 which will actually give me an address and space to apply for grants to run the DIY renewable energy workshops.
 
-
-Recently, generator parts for the Wind turbine have been sourced and 'alternator belts from a car' identified as the best way to drive it - am working steadily towards the rest of the construction. Also I modified an 1899 patent for a zinc-bromine based battery bank for use with either the solar panel or wind turbine. The modification I came up with is in principle mechanical but it may be simplier to perform the same function using electronic-control in practise. Need to invest in my own a lab-bench power supply.
-
-Since last time (thanks to Andrew Huberman and a Canadian Neurologist [- https://neurogal.com](https://neurogal.com) ) I corrected my sleep pattern and my post-Covid19 gastrointestinal abnormalities. The answers were none other Butter and Lux! If you're suffering just get in touch if you need more info!
+Along those lines I went back to another idea that I've wanted to pursue from wayback when - a website where you can buy or exchange 'kit' parts. And using the house-building know-how from last month I might as well start high-end and market a £15k flat-pack house! The other focus on the horizon alongside that (and also fits into this whole DIY energy/housing theme) is a mail-forwarding service for narrowboat/caravan dwellers called PocketPost - I reckon around 300 customers would yield the reasonable level of self-sufficience needed to move forward. 99.5% Sure that I have all the tech capabilities to pull it off then the day-to-day running (and a created job) would be delegated to any willing young family member.
 
 
 <br/>
