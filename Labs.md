@@ -1,7 +1,15 @@
 
 # Larvae Labs - Coming Soon
 
+
+Here's a vid of me chatting Larvae and testing out OBS:
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4p2Mkdyvbl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+I've distilled the proposition of Larvae Labs (aka _Our Future Our Food_ ) into a 2 minute concept video that I used to apply for a TV show, alas it is still a bit rough and ready, but I may decide to update this page with the _Draft Cut_ of that video for some feedback on the presentation style. (There may be a place in this world for Advertising folks after all..!)
 
 ## Mailing list
 

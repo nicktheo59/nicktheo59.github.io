@@ -86,11 +86,14 @@ Like an obsessive-compulsive I spent my entire waking life orientated towards on
 
 What I have decided to work on:
 
-- The Future of Transportation and Income-generation 
-- The Future of Renewable Energy and Income-generation 
-- The Future of Food and Waste Management [Larvae Labs](./Labs.md)
-- The Future of Immersive Education
+- The Future of Renewable Energy (and Income-generation) [Energy Independence](./Energyindependence.md)
+- The Future of Food and Waste Management (and Income-gen) [Larvae Labs](./Labs.md)
+- The Future of Transportation (and Income-generation) [Auto-Shares](./autoshares/autoshares.md) 
+- The Future of Immersive Education (and you guessed..!) 
 - Intermittent / necessary entrepreneur-ing (aka paying the bills)
+
+_Hmm Watson, there's a common theme afoot_ -> That's right, but it'll be better to explain after you see it in action and working.
+
 
 ![](assets/img/LarvaeLabs.png) 
 <br/>
@@ -111,8 +114,8 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
 
 ## Software contractor For Hire 
 
-
-
+<br/>
+I've worked with companies large and small usually as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) I'm certainly worth approaching for at least an initial conversation.
 <!-- consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people.  -->
 
 <!-- 

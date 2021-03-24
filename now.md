@@ -3,16 +3,21 @@
 
 What I'm up to right now (in Derek Sivers fashion)
 
-### -- March 2021
+### -- April 2021
 
-Crunch time: I've got to either bankrupt my company or figure out a way to pay a £3000 fine (to do with a miscommunication in "late" filed paperwork). I actually like the challenge of getting out of tough positions because however you do it that momentum usually continues. I found a place to rent for £128 which will actually give me an address and space to apply for grants to run the DIY renewable energy workshops.
-
-Along those lines I went back to another idea that I've wanted to pursue from wayback when - a website where you can buy or exchange 'kit' parts. And using the house-building know-how from last month I might as well start high-end and market a £15k flat-pack house! The other focus on the horizon alongside that (and also fits into this whole DIY energy/housing theme) is a mail-forwarding service for narrowboat/caravan dwellers called PocketPost - I reckon around 300 customers would yield the reasonable level of self-sufficience needed to move forward. 99.5% Sure that I have all the tech capabilities to pull it off then the day-to-day running (and a created job) would be delegated to any willing young family member.
+Found a place to apply for grants to run the DIY renewable energy workshops from. Building a Mail Forwarding and Receipts organising App. Organising a flat-pack house building project (just for the garden to test currently). Starting an online physics course for skillshare! Found a 'glitch in the matrix' that I'll hopefully get around to.
 
 
 <br/>
 
 ***
+
+## Software contractor For Hire 
+
+<br/>
+I've worked with companies large and small usually as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) I'm certainly worth speaking to for at least an initial conversation. Also I have a number of contacts to refer you for anything cyber security related, and have generously decided to volunteer time to assist small businesses. <br/>
+A good place to reach me directly is Twitter. DMs are open :)
+<a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 
