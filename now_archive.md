@@ -4,6 +4,13 @@ What I was up to (in obsessive retrospective fashion)
 
 ### - 
 
+### -- April 2021
+
+Found a place to apply for grants to run the DIY renewable energy workshops from. Building a Mail Forwarding and Receipts organising App. Organising a flat-pack house building project (just for the garden to test currently). Starting an online physics course for skillshare! Found a 'glitch in the matrix' that I'll hopefully get around to.
+
+
+<br/>
+
 ### -- March 2021
 
 Crunch time: I've got to either bankrupt my company or figure out a way to pay a £3000 fine (to do with a miscommunication in "late" filed paperwork). I actually like the challenge of getting out of tough positions because however you do it that momentum usually continues. I found a place to rent for £128 which will actually give me an address and space to apply for grants to run the DIY renewable energy workshops.
@@ -39,4 +46,4 @@ Recently I reached a Proof of Concept milestone for 'TUTU' which stands for Top 
 
 [Go to Homepage](https://nikipedia.xyz/)
 
-[![](assets/img/jigsaw.png)](./Now.html "Now Page") 
+[![](assets/img/jigsaw.png)](./now.html "Now Page") 
