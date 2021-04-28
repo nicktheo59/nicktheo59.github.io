@@ -31,5 +31,5 @@ A good place to reach me directly is Twitter. DMs are open :)
 
 [Go to Homepage](https://nikipedia.xyz/)
 
-[![](assets/img/jigsaw.png)](./now_archive.html "Now Page Archive")
+[![](assets/img/jigsaw.png)](./now_archive.html "Now Page Archive") <br/>
 _Now Page Archive_ 

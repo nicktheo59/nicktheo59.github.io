@@ -13,10 +13,10 @@ You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my P
 It's a good question. Let me try to give a firm answer:
 
 
-“Take off your hat,” said the King to the Hatter.
+_“Take off your hat,” said the King to the Hatter._
 <br/>
-“It isn’t mine”<br/>
-“I keep them to sell; I’ve none of my own. I’m a Hatter.”<br/>
+_“It isn’t mine”_<br/>
+_“I keep them to sell; I’ve none of my own. I’m a Hatter.”_<br/>
 
 
 In recent years Job Titles and Identities (even the ones that end in "-er") have become somewhat harder to define, since we're operating in an information-centric society.
@@ -32,7 +32,6 @@ So for the next 10 minutes (or however long you choose to visit), my aim is to l
 ^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age. -->
 
 [![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
-
 
 <!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
 
@@ -287,9 +286,13 @@ Here is a list of concepts I have been exploring or recapping:
 * Industrial uses for Protein folding solutions
 * [Gyroscopes](./wiki/Gyroscopes115.md) 🏁
 
-[![](assets/img/jigsaw.png)](./writeups.html "Other writings") 
 
-***
+### Write-ups
+
+This is section is for longer form creative writing, less distinct that an encyclopedia entry <br/>
+[![](assets/img/jigsaw.png)](./writeups.html "Other writings")  <br/>
+(click the logo to access this portal) 
+
 
 <!-- To start your own personal "Nikipedia-like" project:
 <br/>
@@ -325,12 +328,13 @@ Similarly, for any larger media items, these "files" (like audio etc.) will mere
 
 ***
 
+###Take with you 
 
-Finally, I'll leave you with perspective-changing long video to watch if you have time for it...  
+Finally, I'll leave you with perspective-changing long video...  
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-...or a much shorter one if you don't. Thanks for stopping by.
+...or a much shorter one if you don't. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fW8amMCVAJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -339,6 +343,7 @@ Finally, I'll leave you with perspective-changing long video to watch if you hav
 <!-- List of links to other projects, Just the Script,  etc.  -->
 
 <br/>
+Thanks for stopping by. I can now send you on your merry way.
 <br/>
 <br/>
 <br/>
