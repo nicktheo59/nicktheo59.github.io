@@ -1,8 +1,10 @@
 
 # Energy Independence - Coming _very_ Soon
 
+This placeholder website is now up so I might as well link it here. <br/>
+<a href="http://tinkerbricks.live/" target="_blank"> Visit TinkerBricks DIY</a>
 
-Here's _space for_ the teaser vid of the business concept, but below is a build tutorial for the first product series:
+Here's _space for_ the teaser vid of the business concept, but below is a build tutorial for one of the first products in the series:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t9TrUPoevXI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

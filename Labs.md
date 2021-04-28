@@ -1,8 +1,9 @@
 
 # Larvae Labs - Coming Soon
 
+There's currently unlisted draft video of the concept and I really did start a Larvae colony to recycle food waste, as well as design a basic app for the concept video. I was hoping to enter it for Gordon Ramsey Future Food Stars but that didn't go ahead. <br/>
 
-Here's a vid of me chatting Larvae and testing out OBS:
+In the meantime, here's a vid of me chatting Larvae and testing out OBS: 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4p2Mkdyvbl0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
