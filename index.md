@@ -4,6 +4,7 @@
 ![](./gif/plasma_simulation.gif)
 <br/>
 Testing...
+![](./gif/test.gif)
 <br/>
 You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my Portfolio Projects](#Portfolio) -->
 <br/>
