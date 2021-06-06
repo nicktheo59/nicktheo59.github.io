@@ -285,6 +285,10 @@ Here is a list of concepts I have been exploring or recapping:
 * Industrial uses for Protein folding solutions
 * [Gyroscopes](./wiki/Gyroscopes115.md) 🏁
 
+Health-related:
+
+* [Sulforaphane](./wiki/Sulforaphane.md) 🏁
+
 
 ### Write-ups
 
