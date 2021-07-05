@@ -3,31 +3,41 @@
 
 What I'm up to right now (in Derek Sivers fashion)
 
-### -- May 2021
-
-After _CoFounder Shopping_ on the YC SUS web app, I started working with a German scientist on startup ideas. So far we're researching and testing my suggestion of subscriptions supplements but catering to a specfic niche market.  <br/>
-Still taking baby steps towards the DIY workshops / flat-pack house, SkillShare courses, and Mail Forwarding App. <br/>
-For simplicity I've shelved the other things for now. <br/>
-I did start consulting for a £10M fintech start-up in Wales, in fact I was around to see it from the very beginning 3 years ago, although they now have 65 employees! Hopefully I will get to visit them in-person during the coming weeks. <br/>
-For my "leisure work" I'm looking at mesoscopic systems; somehow I've got the idea it could be possible to construct a nano-sized device that performs a quantum analog to gyroscopic precession (whilst reacting dynamically as part of numerous processes). 
+### -- July 2021 onwards
 
 
+OK for me the purpose of this Page is to discuss only the things that make sense for you to hear about... 
 
+
+I could mention: 
+- Off-grid renewable energy systems 
+- Formative assessments to compliment the Huberman Labs Podcast 
+(this effort will serve as a guerilla marketing campaign for my prospective customers) as **I'm working on a supplement health food product.**
+- Hybrid of Hybrids IPO
+- Blockchain voting proposal for Cyprus reunification
+
+For the time being however nothing springs to mind that would make sense for me to
+spill the beans about. 
 
 <br/>
 
 ***
 
-## Software contractor For Hire 
+## Hire Me !
 
 <br/>
-I've worked with companies large and small as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) it would be worth speaking to me for at least an initial conversation. 
-I also have a number of contacts to refer you for anything cyber security related, these folks have generously offered to volunteer time to assist small businesses. Don't just wait for the 'North Korean' hackers to show up and exploit your data! 
+I've worked with companies large and small as the "bridge" between software developer and management teams. <br/>
+If you have a digital product vision in mind but are unsure about where to go next... <br/>
+_(and don't want to run up a huge bill before you are even confident about the whole process)_ <br/>
+...it should be worth contacting me for at an initial conversation and guidance.
+<br/>
+If the matter is more cyber security related I have a number of contact to refer to you. One of these folks has even generously offered to volunteer their time to assist small businesses. Yes it's an unfamiliar area for many business leaders but don't become another statistic. Act.
 <br/>
 A good place to reach me directly is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <br/>
+
+***
 
 [Go to Homepage](https://nikipedia.xyz/)
 

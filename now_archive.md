@@ -2,7 +2,32 @@
 
 What I was up to (in obsessive retrospective fashion)
 
-### - 
+### -
+
+
+
+<br/>
+
+
+### - June 2021
+
+I Built a House.<br/>
+(And skipped a now page update session).
+
+
+<br/>
+
+
+### -- May 2021
+
+After _CoFounder Shopping_ on the YC SUS web app, I started working with a German scientist on startup ideas. So far we're researching and testing my suggestion of subscriptions supplements but catering to a specfic niche market.  <br/>
+Still taking baby steps towards the DIY workshops / flat-pack house, SkillShare courses, and Mail Forwarding App. <br/>
+For simplicity I've shelved the other things for now. <br/>
+I did start consulting for a £10M fintech start-up in Wales, in fact I was around to see it from the very beginning 3 years ago, although they now have 65 employees! Hopefully I will get to visit them in-person during the coming weeks. <br/>
+For my "leisure work" I'm looking at mesoscopic systems; somehow I've got the idea it could be possible to construct a nano-sized device that performs a quantum analog to gyroscopic precession (whilst reacting dynamically as part of numerous processes). 
+
+<br/>
+
 
 ### -- April 2021
 
