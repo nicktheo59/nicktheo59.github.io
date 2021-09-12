@@ -9,23 +9,15 @@ You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my P
 
 ## FAQ : Why am I here? 
 
-It's a good question. Let me try to give a firm answer:
+For the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
 
+* 1.) a sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
 
-_“Take off your hat,” said the King to the Hatter._
-<br/>
-_“It isn’t mine”_<br/>
-_“I keep them to sell; I’ve none of my own. I’m a Hatter.”_<br/>
+* 2.) what I'm thinking about [Niki's Wiki](#wiki)
 
+* 3.) perhaps a new idea / perspective (some Informational 'Suprise' that is worth your while) 
 
-In recent years Job Titles and Identities (even the ones that end in "-er") have become somewhat harder to define, since we're operating in an information-centric society.
-
-So for the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
-
-* 1.) a better sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
-* 2.) perhaps a new idea / perspective (some Informational 'Suprise' that is hopefully worthwhile) 
-<!-- * 3.) mild feelings of passive amusement; (One day i'll be able to create video clips just by typing story lines, but until then don't expect anything milk-snorting) -->
-* 3.) the _urge_ to become a valued newsletter subscriber - and part of something bigger [Sign up here](#mailing)
+<!-- And if you wish to become a valued newsletter subscriber - and part of something bigger [Sign up here](#mailing) -->
 
 <!-- 
 ^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age. -->
@@ -84,18 +76,30 @@ Like an obsessive-compulsive I spent my entire waking life orientated towards on
 
 What I have decided to work on:
 
-- The Future of Renewable Energy (and Income-generation) [Energy Independence](./Energyindependence.md)
-- The Future of Food and Waste Management (and Income-gen) [Larvae Labs](./Labs.md)
-- The Future of Transportation (and Income-generation) [Auto-Shares](./autoshares/autoshares.md) 
-- The Future of Immersive Education (and you guessed..!) 
+- The Future of Renewable Energy and Income-generation [Energy Independence](./Energyindependence.md)
+- The Future of Food Waste Management and Income-generation [Larvae Labs](./Labs.md)
+- The Future of Transportation and Income-generation [Auto-Shares](./autoshares/autoshares.md) 
+- The Future of Immersive Learning and Wellness
+<a href="https://biota.me/" target="_blank"> biota.me </a>
+
+<!-- 
+- The Future of Immersive Education and Skill you guessed..!) 
+
 - Intermittent / necessary entrepreneur-ing (aka paying the bills)
 
 _Hmm Watson, there's a common theme afoot_ -> That's right, but it'll be better to explain after you see it in action and working.
+ -->
 
+<br/>
+I settled on the unifying brand name TinkerBricks, and don't worry there's only one thing being tackled at any given time (but alot of parallel working led me into believing these are all essential as well as lucrative ideas, and therefore should not let them go, even if other teams should take them over).
+
+<br/>
+
+### TinkerBricks logo
 
 ![](assets/img/LarvaeLabs.png) 
 <br/>
-_Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
+_Red = Transport, Yellow = Energy, Blue  = Health  Education, Green = Food_
 
 
 <!-- The link / QR Code to download the App will go here.
@@ -104,16 +108,33 @@ _Red = Transport, Yellow = Energy, Blue  = Education, Green = Food_
  <br/>
 
 
+
+### Progress on Aims
+
+As a visual person I like to plan ahead and keep track of progress in the form of Comic-like pictures. I call it "Visual Accountability".
+It beats re-reading a long, complicated plan when I have already thought through the project milestones (although full write-ups are available on request).
+They can serve as a visible cue to keep you focused, but also create reference cues to more easily communicate progress between teammates and stakeholders.
+
+<!-- class="btn btn-info" -->
+
+* [Visual Accountability Comics](./autoshares/visual_accountability.md)
+ <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
+
+
+
 <a id="now"> </a>
 <br/>
 ### Now Page
 
  See [nikipedia.xyz/now](https://nikipedia.xyz/now)
 
-## Software contractor For Hire 
+***
+ 
+## Software project organiser For Hire 
 
 <br/>
 I've worked with companies large and small usually as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) I'm certainly worth approaching for at least an initial conversation.
+
 <!-- consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people.  -->
 
 <!-- 
@@ -131,19 +152,6 @@ A good place to reach me directly is Twitter. DMs are open :)
 <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 <!-- https://www.fiverr.com/nicktheo -->
 
-
-### Progress on Aims
-
-As a visual person I like to plan ahead and keep track of progress in the form of Comic-like pictures. I call it "Visual Accountability".
-It beats re-reading a long, complicated plan when I have already thought through the project milestones (although full write-ups are available for the investors and finance people).
-They can serve as a visible cue to keep you focused, but also create reference cues to more easily communicate progress between teammates and stakeholders.
-
-<!-- class="btn btn-info" -->
-
-* [Visual Accountability](./autoshares/visual_accountability.md)
- <button type="button" onclick="window.location.href = './autoshares/visual_accountability.html';">View Comic</button>
-
-
 ***
 
 <a id="mailing"> </a>
@@ -153,8 +161,11 @@ They can serve as a visible cue to keep you focused, but also create reference c
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/nickth" target="_blank">The Future of XYZ</a></p></form>
 
-If you want to join the 15 friends and internet onlookers I am yet to sporadically email about my project progress
-then consider signing up with your best email address, it would really be appreciated.
+If you want to join the friends and internet onlookers
+consider signing up with your best email address, doing so would be exceedingly appreciated.
+
+
+***
 
 
 <a id="Portfolio"> </a>
@@ -162,24 +173,28 @@ then consider signing up with your best email address, it would really be apprec
 
 ## Portfolio Projects (Semi-Chronological)
 
-Gifs _from the future_ will be added here with concise explanations; this list will grow in a timely manner.
+Gifs _from the future_ will be added from time to time. 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+This space is reserved to showcase my most recent work.
+
+***
+
+## Post-Graduation:
 
 ![](./gif/caption_search.gif)
 <br/>
 *My design of a Search Engine for YouTube captions*
 <br/>
 
-<br/>
-<br/>
-<br/>
-
-***
-Post-Graduation:
-
-***
-
 LAMP Stack - Data-Driven 140 Line Twitter Clone <br/>
-[Check it out here](http://tweetdemo.tinkerbricks.co/)
+<!-- 
+[Check it out here](http://tweetdemo.tinkerbricks.co/) -->
 
 Algorithmia - Trained AI that rotates Photos for 'Horizon-correction' written in Python <br/>
 [Check it out here](https://youtu.be/Gtc-aU-nG5g)
@@ -217,9 +232,7 @@ Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS
 
 
 ***
-Pre-Graduation:
-
-***
+## Pre-Graduation:
 
 Lua - Wrote scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
 
@@ -241,21 +254,35 @@ LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleratio
 
 ***
 
-### Team Efforts
-
-Everything above was strictly engineered by me (solely), anything below is from a team project which I Product Managed / Project Managed:
+## Startups / Team Efforts
 
 <br/>
+
+### Persona Jobs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2SUyHcx_PJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
+### NTech Consulting
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but can honestly now say I now have 'first hand know-how' about of what a professional business person could expect - chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
+Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but they gave me 'first hand know-how' about of what a professional business person could expect - I chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
-My Parents and Grandparents were in the Food Retail trade (specifically takeaway Fish & Chips) so as a teen I was unboundedly curious to demystify the heights of word "Business". This speaks to the point I made about "Hatters" (i.e. "Fish Fryers") and the less tangibly obvious role of Knowledge Workers behind the scenes -- I needed the concreteness of all these first-hand experiences in order to better relate to what makes the modern world tick.
+### Original motivations
+
+My Parents and Grandparents were in the Food Retail trade (specifically takeaway Fish & Chips) so as a teen I was unboundedly curious to demystify the heights of word "Business".
+I wanted to be able to viscerally relate to it (specifically the word) through first-hand experiences and in a world not already known to me, i.e. in places that are far less obvious than a shop. 
+<!-- For similar reasons I picked a Final year project that involved running simulations on a super computer - because the concept of doing that seemed so foreign to me that I just had to expand my awareness by diving in, even though the Lab projects also seemed _super_ interesting I could imagine what it would involve. -->
+<br/>
+And for the longest time my other fascination has been invention(s) - intially it was about the creative expression and buzz you get from coming up with 'new' ideas and considering their commercial ability -- but there's so much more to it. It's a pragmatists' pursuit, and often relies on savvy to overcome the financial constraints. And it involves careful study -- getting to grips with the work of others already done (and be waiting to be re-discovered or re-mixed into a new form).
+
+<!-- - I guess for me it's a form of creative expression to conceive of ideas, and that's just the easy bit!
+Critiquing and interrogating the commercial promise   -->
+
+
+<!-- This speaks to the point I made about "Hatters" (i.e. "Fish Fryers") and the less tangibly obvious role of Knowledge Workers behind the scenes -- I needed the concreteness of all these first-hand experiences in order to better relate to what makes the modern world tick. -->
 
 <a id="wiki"> </a>
 <br/>
@@ -263,18 +290,26 @@ My Parents and Grandparents were in the Food Retail trade (specifically takeaway
 ***
 ## Niki's Wiki
 ***
-"If you know a topic well enough you could have written the Wikipedia article"
+<!-- "If you know a topic well enough you could have written the Wikipedia article"
+<br/>
+This isn't really true because it would be a Herculean effort. -->
+
 Nikipedia is a 'web' of articles that reflects the state of my knowledge about a topic.
-YOURNAME-ipedia would do the same job and side-by-side we could see the topic conflicts, similarities, breadth, or depth.
 
+<br/> Until Neuralink is a thing it's fairly incomplete as a project, but occasionally I will document my new learnings about a concept right here.
+<br/>
+YOURNAME-ipedia would do the same job and _thanks to Git version control_ one day we could compare the side-by-side  topic conflicts, similarities, breadth, or depths of understanding.
+<br/>
+Currently, misconceptions may be buried and never be given the opportunity to surface. 
 
+<!-- 
 Essentially this is something I started doing on [Dropbox Paper](http://bit.ly/39WwyEj), then I switched to thinking about it in terms of a shareable github repo (starting with a portion of this here website), at some point I thought that an audio / definition format could be interesting ([Listen here](https://anchor.fm/nikipedia-xyz)), however I see Immersive Learning as another emerging medium for me to investigate. Ultimately the focus is for better use of technology to train up the next generation of engineers to a world-class standard more efficiently.
 
 
 
 
 For some topics I decided to record an [Unlisted Video](./wiki/unlisted_videos.md) 🏁
-Other topics warrant a full write up (when it is worthwhile to do so), and certain topics like the inner workings of magnetism should be supplemented with fabled _Immersive Interactive Experiences_
+Other topics warrant a full write up (when it is worthwhile to do so), and certain topics like the inner workings of magnetism should be supplemented with fabled _Immersive Interactive Experiences_ -->
 
 Here is a list of concepts I have been exploring or recapping: 
 
@@ -331,15 +366,18 @@ Similarly, for any larger media items, these "files" (like audio etc.) will mere
 
 ***
 
-###Take with you 
+### Take with you 
 
-Finally, I'll leave you with perspective-changing long video...  
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-...or a much shorter one if you don't. 
+Finally, I'll leave you with a perspective-changing short video...  
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fW8amMCVAJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+...or a much longer one. 
+<br/>
+FYI after watching I can tell you want my "principle" is if you would like to know.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- When it would be necessary / useful include a search tool -->
 
@@ -348,17 +386,15 @@ Finally, I'll leave you with perspective-changing long video...
 <br/>
 Thanks for stopping by. I can now send you on your merry way.
 <br/>
-<br/>
-<br/>
 
-***
+<!-- ***
 Featured skill of the month:
 
 ***
 
 I can prototype interactive designs in FramerX
 
-![](./gif/frameX.gif)
+![](./gif/frameX.gif) -->
 
 ***
 
