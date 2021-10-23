@@ -3,28 +3,17 @@
 
 ![](./gif/plasma_simulation.gif)
 <!-- <br/> Testing...-->
+
+## Welcome 
 <br/>
 You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my Portfolio Projects](#Portfolio) -->
 <br/>
+If you're here to review some of my past work go here -> [Jump to my Portfolio Projects](#Portfolio)   
+<br/>
+Otherwise just peruse at your leisure, get a flavour for what my motivations and inclinations are then, if you like what you see, I encourage you to become a valued newsletter subscriber - with your support this contact list will always serve as my first launch channel for getting early feedback for my nascent creations that will grow into something big and impactful [Sign up here](#mailing)
+<br/>
 
-## FAQ : Why am I here? 
-
-For the next 10 minutes (or however long you choose to visit), my aim is to leave you with:
-
-* 1.) a sense of what I do, through examples - [Jump to Portfolio Projects](#Portfolio)
-
-* 2.) what I'm thinking about [Niki's Wiki](#wiki)
-
-* 3.) perhaps a new idea / perspective (some Informational 'Suprise' that is worth your while) 
-
-<!-- And if you wish to become a valued newsletter subscriber - and part of something bigger [Sign up here](#mailing) -->
-
-<!-- 
-^Alice in Wonderland was published in 1865, which incidentally was the same year James C. Maxwell wrote 'A Dynamical Theory of the Electromagnetic Field', arguably the beginnings of the modern Information Age. -->
-
-[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
-
-<!-- There's a mailing list for fellow rebels (and innocent bystanders) to join. [Go there](#mailing) -->
+***
 
 ***
 
@@ -124,16 +113,16 @@ They can serve as a visible cue to keep you focused, but also create reference c
 
 <a id="now"> </a>
 <br/>
-### Now Page
+### [Now Page](https://nikipedia.xyz/now)
 
  See [nikipedia.xyz/now](https://nikipedia.xyz/now)
 
 ***
  
-## Software project organiser For Hire 
+## Software product & project manager For Hire 
 
 <br/>
-I've worked with companies large and small usually as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) I'm certainly worth approaching for at least an initial conversation.
+I worked with companies large and small usually as the "bridge" between software developer and management teams. If you have a product vision but are unsure about where to go next to make it happen (and not get fleeced) I'm certainly worth approaching for at least an initial (free) consultation.
 
 <!-- consider any opportunities relating (even very loosely) to my Aims - the four themes that relate my 'jigsaw puzzle' to create one thriving TinkerBricks House per neighbourhood of 20,000 people.  -->
 
@@ -144,13 +133,13 @@ Directing teams to develop Customer Relationship Management software ([which I h
 A good place to reach me directly is Twitter. DMs are open :)
 <a href="https://twitter.com/nicktheodorou?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @nicktheodorou</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
+Alternatively you can reply to the mailing list confirmation email (after you join it, obviously).
+
+
 <!-- Downloadable CV with email capture / sent to your email ex mailinator, and/or simply linkedIn - with has pixel tracking anyway
  -->
-
-
-<!-- Insert a Contact form or Fiverr Button-->
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<!-- https://www.fiverr.com/nicktheo -->
+<br/>
 
 ***
 
@@ -162,7 +151,7 @@ A good place to reach me directly is Twitter. DMs are open :)
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/nickth" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/nickth', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com/nickth" target="_blank">The Future of XYZ</a></p></form>
 
 If you want to join the friends and internet onlookers
-consider signing up with your best email address, doing so would be exceedingly appreciated.
+consider signing up with your best email address, doing so is exceedingly appreciated.
 
 
 ***
@@ -294,13 +283,15 @@ Critiquing and interrogating the commercial promise   -->
 <br/>
 This isn't really true because it would be a Herculean effort. -->
 
-Nikipedia is a 'web' of articles that reflects the state of my knowledge about a topic.
+[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
-<br/> Until Neuralink is a thing it's fairly incomplete as a project, but occasionally I will document my new learnings about a concept right here.
+Nikipedia is a personal web of articles that reflects the state of my knowledge about a given topic.
+
+<br/> The idea is to make incremental improvements to serve as a metacognizant restatement of what I have learnt. (And although I always joke that this writing practise is a coping strategy for my impending Alzheimer's, the truth is I think alot of life-long students are practising in a form of 'willfull amnesia', which is a huge source of time-waste that should be avoided. 
 <br/>
-YOURNAME-ipedia would do the same job and _thanks to Git version control_ one day we could compare the side-by-side  topic conflicts, similarities, breadth, or depths of understanding.
+YOURNAME-ipedia would do the same job and _thanks to Git and version control_ if many other people adopted this as a standard we could compare the side-by-side topic misconceptions, similarities, breadth, or depths of understanding.
 <br/>
-Currently, misconceptions may be buried and never be given the opportunity to surface. 
+Currently, misconceptions may be buried and might never be given the opportunity to surface and corrected by teachers. 
 
 <!-- 
 Essentially this is something I started doing on [Dropbox Paper](http://bit.ly/39WwyEj), then I switched to thinking about it in terms of a shareable github repo (starting with a portion of this here website), at some point I thought that an audio / definition format could be interesting ([Listen here](https://anchor.fm/nikipedia-xyz)), however I see Immersive Learning as another emerging medium for me to investigate. Ultimately the focus is for better use of technology to train up the next generation of engineers to a world-class standard more efficiently.
