@@ -2,23 +2,31 @@
 layout: default
 ---
 
-Links or most recent entries with a date heading (reverse chronological):
+Use links on the left to read the less recent entries (reverse chronological):
 
 ***
-Before 28th April 2021
-### Start included file
+
+### 23rd October 2021
+
+{% include electrician.md %}
+
+***
+
+### 28th April 2021 
+
+<!-- ### Start included file -->
 
 {% include alphaquark.md %}
 
-### End included file
+<!-- ### End included file -->
 
 ***
 
-[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI") <br/>
-Go Back to Wiki...
-
-***
 <br/>
 
-[![](./assets/img/wpress.png)] <br/>
-<a href="https://nicktheodorou.wordpress.com/" target="_blank"> ...Or Visit Wordpress instead </a>
+![](./assets/img/wpress.png) <br/>
+<a href="https://nicktheodorou.wordpress.com/" target="_blank"> Click to visit my Wordpress Blog back from those student days</a>
+
+<br/>
+
+[Go to Homepage](https://nikipedia.xyz/)

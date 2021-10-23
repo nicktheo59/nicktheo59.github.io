@@ -9,6 +9,23 @@ What I was up to (in obsessive retrospective fashion)
 <br/>
 
 
+
+### -- July 2021 onwards
+
+
+The main things I'm working on:
+
+- Off-grid renewable energy systems 
+- Formative assessments to compliment the Huberman Labs Podcast 
+(this effort will serve as a guerilla marketing campaign for my prospective customers) as **I'm working on a supplement health food product.**
+- Hybrid of Hybrids IPO
+- Blockchain voting proposal for Cyprus reunification
+
+Some details I can't discuss publicly because of trade secrets and whatnot, but if you need more context ask away. 
+
+<br/>
+
+
 ### - June 2021
 
 I Built a House.<br/>

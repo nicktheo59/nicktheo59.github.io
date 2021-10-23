@@ -3,16 +3,24 @@
 
 What I'm up to right now (in Derek Sivers fashion)
 
-### -- July 2021 onwards
+### -- Oct 2021 onwards
 
 
 The main things I'm working on:
 
-- Off-grid renewable energy systems 
+- An invention for a competition entry in renewable energy generation  
+
+- Researching code and writing up a plan for 'the Mindful Vision Intelligence company', it's just a chrome extention for now but in the future it could do a Carbon audit.
+
+- Furnishing an Auction Room (!), this ties-in with the renewables vision but is an exciting off-shoot project nonetheless.
+
+Further afield:
+- Considering to create a science tutoring resource for helping kids to catch-up
 - Formative assessments to compliment the Huberman Labs Podcast 
-(this effort will serve as a guerilla marketing campaign for my prospective customers) as **I'm working on a supplement health food product.**
-- Hybrid of Hybrids IPO
+(this effort will serve as a guerilla marketing campaign for Biota.me Experimentalists / initial customers)
+- Hybrid of Hybrids IPO / or a new Index ETF 
 - Blockchain voting proposal for Cyprus reunification
+
 
 Some details I can't discuss publicly because of trade secrets and whatnot, but if you need more context ask away. 
 
@@ -36,7 +44,9 @@ A good place to reach me is Twitter. DMs are open :)
 
 ***
 
-[Go to Homepage](https://nikipedia.xyz/)
-
 [![](assets/img/jigsaw.png)](./now_archive.html "Now Page Archive") <br/>
 _Now Page Archive_ 
+<br/>
+
+[Go to Homepage](https://nikipedia.xyz/)
+

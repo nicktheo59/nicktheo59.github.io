@@ -10,12 +10,13 @@ You've stumbled onto Nick L. Theodorou's website (that's me). <!-- [Jump to my P
 <br/>
 If you're here to review some of my past work go here -> [Jump to my Portfolio Projects](#Portfolio)   
 <br/>
-Otherwise just peruse at your leisure, get a flavour for what my motivations and inclinations are then, if you like what you see, I encourage you to become a valued newsletter subscriber - with your support this contact list will always serve as my first launch channel for getting early feedback for my nascent creations that will grow into something big and impactful [Sign up here](#mailing)
+Otherwise just peruse at your leisure, get a flavour for what my motivations and inclinations are then, if you like what you see, I encourage you to become a valued newsletter subscriber - with your support this contact list will always serve as my first launch channel for getting early feedback for new creations that will grow into something big and impactful [Sign up here](#mailing)
 <br/>
 
-***
+[![](./assets/img/nikipedia-wiki.png)](#wiki "Nikipedia WIKI")
 
 ***
+
 
 <!-- Discover one of my projects (clickable): -->
 
@@ -80,7 +81,7 @@ _Hmm Watson, there's a common theme afoot_ -> That's right, but it'll be better 
  -->
 
 <br/>
-I settled on the unifying brand name TinkerBricks, and don't worry there's only one thing being tackled at any given time (but alot of parallel working led me into believing these are all essential as well as lucrative ideas, and therefore should not let them go, even if other teams should take them over).
+I settled on the unifying brand name TinkerBricks, and don't worry there's only one thing being tackled at any given time (but alot of parallel working led me into believing these are all essential as well as valuable ideas, therefore I should not let them go, even if other teams should take them over).
 
 <br/>
 
@@ -113,7 +114,7 @@ They can serve as a visible cue to keep you focused, but also create reference c
 
 <a id="now"> </a>
 <br/>
-### [Now Page](https://nikipedia.xyz/now)
+### Now Page
 
  See [nikipedia.xyz/now](https://nikipedia.xyz/now)
 
@@ -174,7 +175,7 @@ This space is reserved to showcase my most recent work.
 
 ***
 
-## Post-Graduation:
+## Independent projects:
 
 ![](./gif/caption_search.gif)
 <br/>
@@ -204,7 +205,7 @@ Unity - Immersive VR world with Animations and Teleportation, compatible with a 
 Sketch / Principle - High-fidelity Mockups for a mobile-first YouTube Captions Search application. I then edited a 'vlog' style video documenting the process. FYI - the final half of this video covers an unrelated project (called Auto-Shares) <br/> 
 [Check it out here](https://www.youtube.com/watch?v=yM6DIXmob8A&feature=youtu.be) - x1.5 playback speed advised
 
-Progressive Web Apps - Deployment of the _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
+Progressive Web Apps - Deployment of a _beautiful_ sample Books search app, idea is to swap out the Google Books API for Youtube Video results using Audio Transcription Microservice + a TFIDF algorithm written in Python
 
 Glide - Ported a collection of public domain audio files into a step-by-step language learning course (App-based), includes a chat feature to find fellow students to practise with, and a [dummy] directory of local 1-to-1 language tutors. Also works as a Chrome App. <br/>
 [Check it out here](https://wthwy.glideapp.io/)
@@ -221,6 +222,25 @@ Xcode / Unity - Experimented with Apple's newly released AR Kit to create an iOS
 
 
 ***
+
+## Startups & Team efforts
+
+Although it's just a glimpse, all in all these 2 projects took up 4 years of my life, but they gave me 'first hand know-how' about of what a professional business person could expect - I chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
+
+<br/>
+
+Persona Jobs :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2SUyHcx_PJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+NTech Solutions : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***
+
 ## Pre-Graduation:
 
 Lua - Wrote scripts for programming Keithley Machines to measure POWER / I-V Curves of Dye Synthesized Solar Cells of any size by sweeping Current and Voltage
@@ -241,23 +261,7 @@ LaTeX - My _beautifully_ typeset Masters' Thesis on Plasma Wakefield Acceleratio
 [Check it out here](https://www.amazon.co.uk/Beyond-Large-Hadron-Collider-Particle-ebook/dp/B076PXBTQ7)
 
 
-***
 
-## Startups / Team Efforts
-
-<br/>
-
-### Persona Jobs
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2SUyHcx_PJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
-### NTech Consulting
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d_M9h4Ndxts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Although it's just a glimpse, all in all these 2 projects took up 4-5 years of my life, but they gave me 'first hand know-how' about of what a professional business person could expect - I chaired a board, raised venture captial, encounters with famous entrepreneurs _and that jazz_.
 
 ### Original motivations
 
@@ -277,8 +281,9 @@ Critiquing and interrogating the commercial promise   -->
 <br/>
 
 ***
+
 ## Niki's Wiki
-***
+
 <!-- "If you know a topic well enough you could have written the Wikipedia article"
 <br/>
 This isn't really true because it would be a Herculean effort. -->
@@ -304,6 +309,7 @@ Other topics warrant a full write up (when it is worthwhile to do so), and certa
 
 Here is a list of concepts I have been exploring or recapping: 
 
+
 * [Quantum Error Correction](./wiki/QuantumErrorCorrection.md) 🏁
 * Fermi Surfaces 🏁
 * Formal Logic 🏁
@@ -318,9 +324,17 @@ Health-related:
 
 ### Write-ups
 
-This is section is for longer form creative writing, less distinct that an encyclopedia entry <br/>
-[![](assets/img/jigsaw.png)](./writeups.html "Other writings")  <br/>
+See [nikipedia.xyz/writeups](https://nikipedia.xyz/writeups) <br/>
+This is section is for longer form creative writing. <br/>
+
+
+
+
+
+<!-- [![](assets/img/jigsaw.png)](./writeups.html "Other writings")  <br/>
 (click the logo to access this portal) 
+ -->
+
 
 
 <!-- To start your own personal "Nikipedia-like" project:
@@ -357,15 +371,16 @@ Similarly, for any larger media items, these "files" (like audio etc.) will mere
 
 ***
 
-### Take with you 
+### Videos
 
-Finally, I'll leave you with a perspective-changing short video...  
+Finally, I'll leave you with a perspective-changing short video....or a much longer one. 
+<br/>
+FYI after watching the second one it will make sense to tell you my "principle" is: <br/>
+Critique your chosen inputs to strive for desired outputs. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fW8amMCVAJQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-...or a much longer one. 
-<br/>
-FYI after watching I can tell you want my "principle" is if you would like to know.
+
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8QiPFmIMxFc?start=1401" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -375,7 +390,7 @@ FYI after watching I can tell you want my "principle" is if you would like to kn
 <!-- List of links to other projects, Just the Script,  etc.  -->
 
 <br/>
-Thanks for stopping by. I can now send you on your merry way.
+Thanks for stopping by :)
 <br/>
 
 <!-- ***
@@ -390,7 +405,5 @@ I can prototype interactive designs in FramerX
 ***
 
 &copy; Nick L. Theodorou MMXX - Heat Death of the Universe (or, you know, until copyright expiry moves my work into the public domain)
-
-***
 
 <!-- ![](./assets/img/masterplan-min.png) -->
