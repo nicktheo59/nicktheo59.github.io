@@ -6,21 +6,10 @@ On Desktop you can use links on the left hand side see older write ups (reverse 
 
 ***
 
-<br/>
+### 18th December 2021
+
 <a id="test"> </a>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-### 18th December 2021
 
 {% include stoptap.md %}
 
