@@ -2,11 +2,22 @@
 layout: default
 ---
 
-Use links on the left to read the less recent entries (reverse chronological):
+On Desktop you can use links on the left hand side see older write ups (reverse chronological):
+
+***
+
+### 18th December 2021
+<a id="test"> </a>
+<br/>
+<!-- {% include stoptap.md %} -->
 
 ***
 
 ### 23rd October 2021
+
+{% include bookkeeping.md %}
+
+***
 
 {% include electrician.md %}
 
