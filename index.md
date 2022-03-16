@@ -7,8 +7,9 @@
 ## Welcome 
 <br/>
 You've stumbled onto Nick L. Theodorou's website (that's me). 
+<br/>
 
-Here for Tech Wednesday ?  <a href="https://docs.google.com/presentation/d/e/2PACX-1vQu298lKk37yakLkwXmPC8SOLjgLo1PzgLUVuZrNPWhnrSjhH1m1EFfm7warW5YI_MqfIuSRKX1vWvt/pub?start=false&loop=true&delayms=15000"> Here are the Slides </a> 📲
+Here for Tech Wednesday? <a href="https://docs.google.com/presentation/d/e/2PACX-1vQu298lKk37yakLkwXmPC8SOLjgLo1PzgLUVuZrNPWhnrSjhH1m1EFfm7warW5YI_MqfIuSRKX1vWvt/pub?start=false&loop=true&delayms=15000"> Here are the Slides </a>📲 
 
 <!-- [Jump to my Portfolio Projects](#Portfolio) -->
 <br/>
