@@ -73,6 +73,23 @@ Recently, generator parts for the Wind turbine have been sourced and 'alternator
 
 Since last time (thanks to Andrew Huberman and a Canadian Neurologist [- https://neurogal.com](https://neurogal.com) ) I corrected my sleep pattern and my post-Covid19 gastrointestinal abnormalities. The answers were none other Butter and Lux! If you're suffering just get in touch if you need more info!
 
+<br/>
+
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 48.1481%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEfgBrNuLs&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEfgBrNuLs&#x2F;view?utm_content=DAEfgBrNuLs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by nick theodorou
+
+
+
+
+
 
 ### -- Dec 2020
 
